@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Romer Jasen Jimenez</h1>
-<h3 align="center">A passionate frontend developer from Philippines</h3>
+<h1 align="center">Hey! 👋, I'm Romer Jasen Jimenez</h1>
+<h3 align="center">An aspiring Full Stack Developer Based Philippines</h3>
 
 <img  align="right" alt="coding image" width="200" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
 
