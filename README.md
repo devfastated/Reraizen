@@ -2,7 +2,7 @@
 <h3 align="center">An aspiring Full Stack Developer Based Philippines</h3>
 
 <img  align="right" alt="coding image" width="200" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
-<img  align="right" alt="coding image" width="200" src="[https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif](https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif)">
+<img  align="right" alt="coding image" width="200" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
 
 
 
