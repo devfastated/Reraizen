@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reraizen&base=23456&label=Followers&color=brightgreen&style=for-the-badge" alt="reraizen" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reraizen&base=540&label=Subscribers&color=blueviolet&style=for-the-badge" alt="reraizen" /> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=reraizen&base=9540342&color=ff69b4&style=for-the-badge" alt="reraizen" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=reraizen&base=54759&color=ff69b4&style=for-the-badge" alt="reraizen" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reraizen" alt="reraizen" /></a> </p>
 
