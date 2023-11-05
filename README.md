@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://twitter.com/_aizen26" target="blank"><img src="https://img.shields.io/twitter/follow/_aizen26?logo=twitter&style=for-the-badge" alt="_aizen26" /></a> </p>
 
-- 🔭 I’m currently working on **Attendance Monitoring System**
+- 🔭 I’m currently working on **Sell Growth, Programming, Front-End**
 
 - 🌱 I’m currently learning **Front End Development, Back End Development and soon is the Full Stack Development**
 
@@ -25,7 +25,7 @@
 
 - 📫 How to reach me **businessmailromer@gmail.com**
 
-- ⚡ Fun fact **I am the master of procrastinating**
+- ⚡ Fun fact **I love learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
